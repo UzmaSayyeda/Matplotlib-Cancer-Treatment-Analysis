@@ -21,5 +21,8 @@ This assignment is broken down into the following tasks:
 
 Datasets are included in the Resources folder.
 
+## Analysis
+![This is a boxplot](./Boxplot.png)
+
 ## Credits
 Ask BCS helped with debugging the code.
