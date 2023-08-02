@@ -30,8 +30,9 @@ one dataset, then we cleaned the dataset by removing duplicates.
 
 - The following is the linear regression between the final tumor volume and weight of the mouse for the drug Capomulin.
 - the correaltion coefficient calculates is 0.84 
+
+
 ![This is the weight vs. average tumor volume linear regression plot](./correlation.png)
 
-There are some other visuallizations that are included like the distribution between male and female mouse and drug regimen vs their timepoints.
 ## Credits
 Ask BCS helped with debugging the code. My tutor helped me refine the Readme.
